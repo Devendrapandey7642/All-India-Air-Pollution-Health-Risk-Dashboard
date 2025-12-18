@@ -13,11 +13,10 @@ toolbarMode = "viewer"
 level = "error"
 
 [server]
-headless = true
-port = 8503
-maxUploadSize = 200
-enableXsrfProtection = true
-enableCORS = false
+ headless = true
+ maxUploadSize = 200
+ enableXsrfProtection = true
+ enableCORS = false
 
 [browser]
 gatherUsageStats = false
